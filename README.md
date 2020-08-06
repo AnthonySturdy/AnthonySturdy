@@ -15,7 +15,7 @@
   <img align="left" alt="Itch.io" width="32px" src="https://i.imgur.com/VZfvkiT.png" />
 </a>
 
-<img align="right" alt="GIF" src="Ship_1.gif" width="300vw" />
+<img align="right" alt="GIF" src="https://github.com/AnthonySturdy/AnthonySturdy/blob/master/Ship_1.gif?raw=true" width="300vw" />
 
 <br />
 <br />
