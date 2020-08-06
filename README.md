@@ -18,8 +18,8 @@
 <img align="right" alt="GIF" src="https://anthonysturdy.co.uk/Images/Ship_1.gif" width="300vw" />
 <br />
 <br />
-- 👨‍🎓 &nbsp;BSc Games Programming student at Staffordshire University
-- &nbsp;Currently on my sandwich-year working at Unity Technologies
+- 👨‍🎓 BSc Games Programming student at Staffordshire University
+- Currently on my sandwich-year working at Unity Technologies
 - ⌨ C++ and C#
 <br />
 <br />
