@@ -19,7 +19,7 @@
 <br />
 <br />
 * 👨‍🎓 &nbsp;BSc Games Programming student at Staffordshire University
-* <img alt="Twitter" width="18px" src="https://i.imgur.com/gzRuJ2n.png" /> &nbsp;Currently on my sandwich-year working at Unity Technologies
+* &nbsp;Currently on my sandwich-year working at Unity Technologies
 * ⌨ C++ and C#
 <br />
 <br />
