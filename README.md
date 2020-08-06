@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👋 Hi! I'm Anthony
+<a href="https://twitter.com/AnthonySturdy">
+  <img align="left" alt="Twitter" width="32px" src="https://i.imgur.com/VbPDKnY.png" />
+</a>
+<a href="https://twitter.com/AnthonySturdy">
+  <img align="left" alt="Twitter" width="32px" src="https://i.imgur.com/x2FF0QA.png" />
+</a>
+<a href="https://twitter.com/AnthonySturdy">
+  <img align="left" alt="Twitter" width="32px" src="https://i.imgur.com/XEl0Vm5.png" />
+</a>
+<a href="https://twitter.com/AnthonySturdy">
+  <img align="left" alt="Twitter" width="32px" src="https://i.imgur.com/nUsvtL2.png" />
+</a>
+<a href="https://twitter.com/AnthonySturdy">
+  <img align="left" alt="Twitter" width="32px" src="https://i.imgur.com/VZfvkiT.png" />
+</a>
 
-<!--
-**AnthonySturdy/AnthonySturdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a games programming student, currently on my sandwich year working at Unity Technologies
