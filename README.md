@@ -16,6 +16,7 @@
 </a>
 
 <img align="right" alt="GIF" src="https://anthonysturdy.co.uk/Images/Ship_1.gif" width="300vw" />
+
 <br />
 <br />
 
