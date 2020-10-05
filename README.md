@@ -23,6 +23,7 @@
 - 👨‍🎓 BSc Games Programming student at Staffordshire University
 - <img alt="Twitter" width="18px" src="https://i.imgur.com/gzRuJ2n.png" /> Currently on my sandwich-year working at Unity Technologies
 - ⌨ Primarily use C++ and C#
+- 👾 Main interests are in Graphics and Game Engine programming
 
 <br />
 <br />
