@@ -1,29 +1,28 @@
-### 👋 Hi! I'm Anthony.
-<a href="https://twitter.com/AnthonySturdy">
-  <img align="left" alt="Twitter" width="32px" src="https://i.imgur.com/VbPDKnY.png" />
-</a>
-<a href="https://anthonysturdy.co.uk/">
-  <img align="left" alt="Portfolio" width="32px" src="https://i.imgur.com/x2FF0QA.png" />
-</a>
-<a href="https://www.linkedin.com/in/anthonysturdy/">
-  <img align="left" alt="LinkedIn" width="32px" src="https://i.imgur.com/XEl0Vm5.png" />
-</a>
-<a href="mailto:anthonysturdy@gmail.com">
-  <img align="left" alt="Email Contact" width="32px" src="https://i.imgur.com/nUsvtL2.png" />
-</a>
-<a href="https://anthonysturdy.itch.io/">
-  <img align="left" alt="Itch.io" width="32px" src="https://i.imgur.com/VZfvkiT.png" />
-</a>
+
+
+
+<h3 align="left">👋 Hi, I'm Anthony</h1>
+<b align="left">A games programming student.</b>
 
 <img align="right" alt="GIF" src="https://github.com/AnthonySturdy/AnthonySturdy/blob/master/Ship_1.gif?raw=true" width="300vw" />
 
-<br />
-<br />
+👨‍🎓 Currently studying **BSc Computer Games Programming** at [Staffordshire University](https://www.staffs.ac.uk/)
 
-- 👨‍🎓 BSc Games Programming student at Staffordshire University
-- <img alt="Twitter" width="18px" src="https://i.imgur.com/gzRuJ2n.png" /> Currently on my sandwich-year working at Unity Technologies
-- ⌨ Primarily use C++ and C#
-- 👾 Main interests are in Graphics and Game Engine programming
+👨‍💻 Ex-intern at **[Unity Technologies](https://unity.com/)**
 
-<br />
-<br />
+💻 My portfolio is available at **[https://anthonysturdy.co.uk/](https://anthonysturdy.co.uk/)**
+
+📧 Get in touch: **anthonysturdy@gmail.com**
+
+👾 Main interests are in **Graphics and Game Engine programming**
+
+<b align="left">Connect with me:</b>
+<p align="left">
+<a href="https://twitter.com/anthonysturdy" target="blank"><img align="center" src="https://i.imgur.com/VbPDKnY.png" alt="anthonysturdy" height="40" width=40" /></a>
+<a href="https://linkedin.com/in/anthonysturdy" target="blank"><img align="center" src="https://i.imgur.com/XEl0Vm5.png" alt="anthonysturdy" height="40" width="40" /></a>
+</p>
+
+<b align="left">Languages and Tools:</b>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonysturdy&show_icons=true&locale=en&layout=compact" alt="anthonysturdy" /></p>
