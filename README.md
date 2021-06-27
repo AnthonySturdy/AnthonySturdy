@@ -8,7 +8,7 @@
 
 👨‍🎓 Currently studying **BSc Computer Games Programming** at [Staffordshire University](https://www.staffs.ac.uk/)
 
-👨‍💻 Ex-intern at **[Unity Technologies](https://unity.com/)**
+👨‍💻 Previous intern at **[Unity Technologies](https://unity.com/)**
 
 💻 My portfolio is available at **[https://anthonysturdy.co.uk/](https://anthonysturdy.co.uk/)**
 
