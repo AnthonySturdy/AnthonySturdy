@@ -10,11 +10,11 @@
 
 👨‍💻 Previous intern at **[Unity Technologies](https://unity.com/)**
 
+👾 Main interests are in **Graphics and Game Engine programming**
+
 💻 My portfolio is available at **[https://anthonysturdy.co.uk/](https://anthonysturdy.co.uk/)**
 
 📧 Get in touch: **anthonysturdy@gmail.com**
-
-👾 Main interests are in **Graphics and Game Engine programming**
 
 <b align="left">Connect with me:</b>
 <p align="left">
