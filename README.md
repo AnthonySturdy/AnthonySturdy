@@ -1,8 +1,8 @@
 
 
 
-<h3 align="left">👋 Hi, I'm Anthony</h1>
-<b align="left">A games programming student.</b>
+<h3 align="left">👋 Hi, I'm Anthony,</h1>
+<b align="left">a games programming student.</b>
 
 <img align="right" alt="GIF" src="https://github.com/AnthonySturdy/AnthonySturdy/blob/master/Ship_1.gif?raw=true" width="300vw" />
 
