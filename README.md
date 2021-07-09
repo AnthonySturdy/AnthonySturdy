@@ -8,7 +8,7 @@
 
 👨‍🎓 Currently studying **BSc Computer Games Programming** at [Staffordshire University](https://www.staffs.ac.uk/)
 
-👨‍💻 Previous intern at **[Unity Technologies](https://unity.com/)**
+👨‍💻 Previously interned at **[Unity Technologies](https://unity.com/)**
 
 👾 Main interests are in **Graphics and Game Engine programming**
 
